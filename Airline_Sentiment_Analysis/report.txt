@@ -1,0 +1,23 @@
+1. Loaded the data and converted class labels from positive and negative to binary and then performed
+   some EDA. 
+
+2. Converted the text reviews to numeric data using tokenizer.
+
+3. Splitted the data between training, validation and test set.
+
+4. Prepared datasets for training and testing by adding proper padding to the tokenized reviews.
+
+5. Trained a Recurrent Neural Network model with Embedding, GRU and Dense layers.
+
+    -->The RNN model gave training accuracy of 99% and testing accuracy of 90%.
+
+5. Added BatchNormalization layers, reduced model complexity and used early stopping
+   to deal with overfitting of training data.
+
+6. Saved the model and tokenizer for api calls.
+
+7. Finally tried BERT model using transformers library and trained it on the provided data.
+   
+    -->BERT model gave training accuracy of 99% and testing accuracy of 95%.
+
+

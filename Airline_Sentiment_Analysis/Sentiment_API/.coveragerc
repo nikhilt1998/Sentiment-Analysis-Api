@@ -1,0 +1,3 @@
+[run]
+source = sentiment_api
+omit = sentiment_api/test*

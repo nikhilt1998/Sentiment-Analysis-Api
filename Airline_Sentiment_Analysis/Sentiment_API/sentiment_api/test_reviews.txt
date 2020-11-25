@@ -1,0 +1,29 @@
+#Some random reviews for Api test calls
+
+1. @VirginAmerica always!!! Xoxo
+Sentiment: Positve
+
+2. @VirginAmerica is the website down?
+Sentiment: Negative
+
+3. @VirginAmerica Just DM'd. Same issue persisting.
+Sentiment: Negative
+
+4. @VirginAmerica cutest salt and pepper shaker ever. 
+Just when I think you guys can't get any better you just do!
+Sentiment: Positve
+
+5.@VirginAmerica Thanks so much for the awesome support, you guys rock!
+Sentiment: Positve
+
+6. @united read the thread. I booked 1st class , 
+    now seated at 38E even though United Twtr account confirmed Eco Premium.
+Sentiment: Negative
+
+7. @JetBlue over 2 hour delay going from NYC to Denver! Come on man!
+Sentiment: Negative
+
+8. @AmericanAir Hi AA ! I placed an itin on hold to expire on 2/27.
+Just logged into my acct..its gone! Seat hasn't been released to inv. Help?
+
+Sentiment: Negative
